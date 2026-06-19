@@ -8,10 +8,10 @@ Depends: libc6 (>= 2.34)
 Priority: optional
 Section: utils
 Filename: pool/main/h/helioslogs/helioslogs_0.2.0-1_amd64.deb
-Size: 8407196
-SHA256: 6eed37d8bd5fee744a33f4e6e8fd3fd9c93b417aced834c53f91334584c77e0b
-SHA1: 6dc1b2e6582f22d3725eaa620ae2e29bec9e96e8
-MD5sum: 09f2dc14a751563a0f38955869fa885b
+Size: 8406324
+SHA256: ec0548e7a49776346c3af2514007d0e1572cdb5dbb10734d73ee409bc51a877d
+SHA1: 508e2da1a472c42781156c4f692367a41e23aa37
+MD5sum: 53a33d1411cc6219398aea35dd4886b4
 Description: HeliosLogs is a fast, easy, modern log search engine with analytics & AI
  HeliosLogs is a fast, light weight log search tool with a custom columnar block
  storage engine, a built-in AI agent and MCP server
