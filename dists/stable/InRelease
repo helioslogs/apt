@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: HeliosLogs
+Label: HeliosLogs
+Suite: stable
+Codename: stable
+Date: Fri, 19 Jun 2026 22:03:13 UTC
+Architectures: amd64 arm64
+Components: main
+Description: HeliosLogs apt repository
+MD5Sum:
+ e432063373ae47334d1563ad5e9bd229 695 main/binary-amd64/Packages
+ ebb4638bf0b9a1efef84b6a9385962cf 471 main/binary-amd64/Packages.gz
+ 0ef68e3a97e55f132034d0514af19367 128 main/binary-amd64/Release
+ 52faf4e7219259f6fd962dace466ed9b 695 main/binary-arm64/Packages
+ 8aa1f03b905577dbf4ee1cae695c4800 472 main/binary-arm64/Packages.gz
+ 8c8b40bfff983f7ff62c05bbd8a08ac7 128 main/binary-arm64/Release
+SHA1:
+ 63a3db14d91ca2941a65dc9bdcdce62427b42d7e 695 main/binary-amd64/Packages
+ 1235ee32ae55005cf66dc62e12491be1782fe664 471 main/binary-amd64/Packages.gz
+ 1f4239055889dff1f41a1b969395d7e84865e95e 128 main/binary-amd64/Release
+ 24ad62ed3bd3708bdb156c10ad865245fc09b3ce 695 main/binary-arm64/Packages
+ b25de8cbc929ebae284b7d89a1b10f532f7af85b 472 main/binary-arm64/Packages.gz
+ 44e399d18f6ad4ce14a594184c41dd3caece9c46 128 main/binary-arm64/Release
+SHA256:
+ bb683028d75282f79ba24a5218077f061bbd0b2f8df758979e80bdabe9fed0c3 695 main/binary-amd64/Packages
+ ac314005d33d0bec1654bbf367b482e4f541b99aa96bab712862e8996640680e 471 main/binary-amd64/Packages.gz
+ a182373e0e48c9e3627c14b8a5169cbd9cfcf9941725392ec1c67ad3f3ba62e7 128 main/binary-amd64/Release
+ 94763a8cfaac447cf2d8b1b57366f68c5ae4b06a6e0cb5b82ce650775bb91217 695 main/binary-arm64/Packages
+ 8c1c64a782f0b038c84b4b0eb15660818e1686bf7808cd434259bb32657d3724 472 main/binary-arm64/Packages.gz
+ f0f5a32ef3516174205112b9b7245d5ac39eb56f7239228e92ba82274405f64e 128 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEluzGpzMN/jl66RuBjoZHoQaEclcFAmo1vKEACgkQjoZHoQaE
+cldT4hAAsTBbg0p5aK5h3daQck+8cXVkRUY4QztizJ4ozK/CcJakOEWQbqr8k3lc
+qX99GdYBZqaW9XF/ezu7QYmOAtEoSvsmVuEcjDfvPDeqeW7CeZ+AnvFFOmWxKnQW
+xy9XKABFwxHp2Sz5CoBoIzX3epkpIR/7KnnE8A3QqBM11z6h2fsIgnG1E3b+3t/g
+WPqlGX0T2Y6ut5CFURy5oMQGbj4hp4Zt2jDAWKr2j2xsJ8HcbHZy2Kr/ZUvWCStb
+g26rovccpdmfMJT9BxnHmKmv9i6AhFMLI9i+NNNqZwkw/k4fX+3Blc9PJrEv6kV1
+7hWTfJLLe12F5kiB47rWD3ysjgjZj0/UeLEbtVFt378QSypN++KpTKqHGLx+x2Ua
+hI+jhE3pOffad7wAjxzRdV1j4hrXMAHQNGntSX+Mrt0hklRXA0Cp/EyZMrFg2jIH
+NtC11QFHIb1sYdC1rxt1u4+91BwM6JKwl26/n9hXRhUJ7JN3BEh1LQNJCCoBHjEt
+C24kCFJJPyCtYA27iwjgFZdeSevwVO62RCsI0QfgHPW8XsRS5wxRysOhnLRhOwOO
+sHNYUiIQR71RRT6OheH7RD/5nNNbpZawekzWi7ELj7YzIxA7QgU+Iv4ytkAiRl68
+HjCMoDOPpccmbCbQaJITu5muzs0d7gMbHhxdTG6JWEFXsiLwlW4=
+=c450
+-----END PGP SIGNATURE-----

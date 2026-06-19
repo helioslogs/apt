@@ -1,0 +1,8 @@
+Origin: HeliosLogs
+Label: HeliosLogs
+Codename: stable
+Suite: stable
+Architectures: amd64 arm64
+Components: main
+Description: HeliosLogs apt repository
+SignWith: yes

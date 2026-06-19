@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: HeliosLogs
+Label: HeliosLogs
+Architecture: amd64
+Description: HeliosLogs apt repository
