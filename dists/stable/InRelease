@@ -5,7 +5,7 @@ Origin: HeliosLogs
 Label: HeliosLogs
 Suite: stable
 Codename: stable
-Date: Fri, 19 Jun 2026 23:00:53 UTC
+Date: Sat, 20 Jun 2026 16:16:51 UTC
 Architectures: amd64 arm64
 Components: main
 Description: HeliosLogs apt repository
@@ -32,17 +32,17 @@ SHA256:
  f0f5a32ef3516174205112b9b7245d5ac39eb56f7239228e92ba82274405f64e 128 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEluzGpzMN/jl66RuBjoZHoQaEclcFAmo1yiUACgkQjoZHoQaE
-cleFPxAArL2TtL+hGMdrokBLM21tPJkshpkcKNHTv1VY0++S65hLjcI8nvQeQtLw
-NXq5qRt6FrryvTnJ2AcRqe0992mE8lk/5lBQq5x1cN5iQbrTps1hLZTXeVG90uGW
-TihU4UQ9GOo6zu5H2h5ww/IdR7Gkkc6uZuy6/keA+xVKwLQcV52xLRke03urGFu4
-EpRN1fvIvIZaJtR6duH6cQU9fI1g/LiXFGc1/7eqTRoVrznC8JM20VUKAafzLltN
-y2mRcln1J7CSEDZNyJ8zLrHOcbabkVMHZmKujsNbSdDNg/5oHjFDQ0khtDE0vgqt
-QTJem+m60TM2lOrX2w2IxvtavVWmC1+Lbl13cLsIIFCKN/LZtjO0ufHMB1PCGdnx
-B1KrwVK60JP71a4PI1zOaloYdaBjEUSewoeVpv0uKZmt6YpozuB07MKJ2o2g97Cm
-adjcitlfrnkObfWvV42Qcggvcwt8jsGmxcXd7Vc6PsNnEk1ycTfOMLPmNKY2jX0V
-HFBjWwtuWyYL2Wm0h2xDzQ1rj+qyO8FuzYTFxeE1skqBn95kq8Q8vl7PBFceTMV0
-5h6uBOaj5uWgTyjKT31AsfUO0XHgqzIQU7XXdB7UzncJ/bP8jSc/OpqVdsAnzP6V
-wtc/xrPPocf2TWCZw8qWGdKCnfRD1noKIFVDk4YgeVsEo42gX90=
-=HlJ/
+iQIzBAEBCgAdFiEEluzGpzMN/jl66RuBjoZHoQaEclcFAmo2vPMACgkQjoZHoQaE
+cld9mA//Z4NRA5F+uBke9vrcW/6jXdJKDnKlwVyNrocS4DCU5kKocL3B6Vd0waN9
+BWWm8oxQmWQxO/hGi6u6jLEXVZU2PKvpy5Ts1X/o6uRJijJxkMqGZUsAJuLDSwiq
+lRSFznT3hPLCjmPb1ghuvHrC4QI4PqPMCPDJckCWnLhrL9DeeMwpG7OjpyQ+NtJH
+kHt+6O8OjvHyMEr7mnRDHFuLwj8PghbLNGtR0az2SKl4KukVdkzx33RykrSkdvGv
+TCf+KIUwDoMIqetvnoWAunkGIJCSdW3GfWHk0emuyvhKfGVSzkimHJjoerrWsgPn
+MprEg6mPwn4nX7K+6HD98gLifpWCo7cjVJdnwQIm/anm9zQXKbuH9oIwtjKxv6U7
+ipNno9T33RRvmtqVYLImeUb1dPNMuzoBMbtBoMM/GOwdsMV6VzoS5roA/zi34GgH
+Tspn8Wwtm1FMq9BSOru8xMzHOHBzxIKhRHA7Zaw+oVZ59QYgTpCs2tYpuUq0Uxtk
+vRPUCDqjcLiWJLu7yM0+uSJFU6PWbt3rCehFwMC+3+8CCnbIAtfq1kKWnmb9GbOc
+uLJyflbDw8OUTCcTwQBitZPj0rvPPxaE4LRIeALlmKLUhV/JFD5S458rwRd1IYu5
+KGnbBLdfiHFJ3dOlFzwgWE9qylAmuUJAfj1tYX9/445tYy1MWFw=
+=U10p
 -----END PGP SIGNATURE-----
