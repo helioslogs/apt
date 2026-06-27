@@ -1,5 +1,5 @@
 Package: helioslogs
-Version: 1.0.3-1
+Version: 1.0.4-1
 Architecture: arm64
 Homepage: https://github.com/helioslogs/helioslogs
 Maintainer: Appbird LLC <helioslogs@appbird.com>
@@ -7,11 +7,11 @@ Installed-Size: 29638
 Depends: libc6 (>= 2.34)
 Priority: optional
 Section: utils
-Filename: pool/main/h/helioslogs/helioslogs_1.0.3-1_arm64.deb
-Size: 7621368
-SHA256: b0892207b1646b549930dbe9d4d70a5ca89e032bf95769c6f07d6f8a8bc08d14
-SHA1: 28f357b5532a341f815e2ea6e10741e58f165120
-MD5sum: db77ce8061c8a3621cd444a0afea5451
+Filename: pool/main/h/helioslogs/helioslogs_1.0.4-1_arm64.deb
+Size: 7621520
+SHA256: 87d5f71804c4f1e57699bfd1f3e8aed6ec68e5c3be41a969158445596a5a811f
+SHA1: 0d07f2dd4a0df380ad1a3e81cfb4de254cae0308
+MD5sum: 27b0450a0e6ffb733853f4862c9b31d0
 Description: HeliosLogs is a fast, easy, modern log search engine with analytics & AI
  HeliosLogs is a fast, light weight log search tool with a custom columnar block
  storage engine, a built-in AI agent and MCP server

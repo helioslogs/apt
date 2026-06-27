@@ -5,44 +5,44 @@ Origin: HeliosLogs
 Label: HeliosLogs
 Suite: stable
 Codename: stable
-Date: Mon, 22 Jun 2026 13:19:48 UTC
+Date: Sat, 27 Jun 2026 16:23:02 UTC
 Architectures: amd64 arm64
 Components: main
 Description: HeliosLogs apt repository
 MD5Sum:
- 890fc5aea3e6e71e7492ff0542339e41 695 main/binary-amd64/Packages
- 69ad12b72e5b7c77badfacaf5375cc73 474 main/binary-amd64/Packages.gz
+ 7a714a274c3f7a7f63b6bc68e7f376c7 695 main/binary-amd64/Packages
+ 3929ef6b5250ebd6e1ff4bb83feb0b73 470 main/binary-amd64/Packages.gz
  0ef68e3a97e55f132034d0514af19367 128 main/binary-amd64/Release
- c5ea6cb082f7d670672fb4a59418231c 695 main/binary-arm64/Packages
- 57508d78e5199047d22b17d45e35b345 474 main/binary-arm64/Packages.gz
+ 64de0dfe0328da9252ca7f26016a9c13 695 main/binary-arm64/Packages
+ eb4edcfe96a34dcad189132b729c4b9a 473 main/binary-arm64/Packages.gz
  8c8b40bfff983f7ff62c05bbd8a08ac7 128 main/binary-arm64/Release
 SHA1:
- a7f8b3d4aa06fae9e921bf508ed39325d6e64546 695 main/binary-amd64/Packages
- 54469aabe7df90c6d033e120364e654747553173 474 main/binary-amd64/Packages.gz
+ debb86fb51c57f8603577d8e7110a4887f33ca99 695 main/binary-amd64/Packages
+ a293b42b0c06294f6b0b8610171f1a5b2aad4d27 470 main/binary-amd64/Packages.gz
  1f4239055889dff1f41a1b969395d7e84865e95e 128 main/binary-amd64/Release
- ae6e64a554c268cf3e9913ec2be84bca7dc729e8 695 main/binary-arm64/Packages
- 968770ee0a8508ecf1d59e4dbc5ede0608689eee 474 main/binary-arm64/Packages.gz
+ 3a1c27960fe021d0cca8d87f5b543f8f6ca65ef1 695 main/binary-arm64/Packages
+ 9727183a7870bf266f0b57908211883215d6a30f 473 main/binary-arm64/Packages.gz
  44e399d18f6ad4ce14a594184c41dd3caece9c46 128 main/binary-arm64/Release
 SHA256:
- d7ef2d4e0e8a4208af7e4e49f3d18f0e0894f762bd4a47eb789ff8d5e4293896 695 main/binary-amd64/Packages
- 968edec5b86bc76dbc86dc998b466a3912e7d46e03a196b74c1a4cdfdff3d682 474 main/binary-amd64/Packages.gz
+ 08a78a3c868d43ddce43d30b5cc06191067068d2d47531cd42157b4e2d29daa2 695 main/binary-amd64/Packages
+ cba4dac5b6f3f303f1f86fecbe3bb81ce47f78bbe0b48e892df8ec52824b7c99 470 main/binary-amd64/Packages.gz
  a182373e0e48c9e3627c14b8a5169cbd9cfcf9941725392ec1c67ad3f3ba62e7 128 main/binary-amd64/Release
- dc07f32455c7a778db528c3d378e76763554315273487754c8e17749dbfda752 695 main/binary-arm64/Packages
- da6191ab4bf78c2842b6cce09095e5ae9b06d71569e4893ca013bcc31f6cb4b2 474 main/binary-arm64/Packages.gz
+ d80671af3757ab37d9ad57f845ef468e6dc4b801b15cca89cfd65a77871cb197 695 main/binary-arm64/Packages
+ 134b345c5fb5343c18aae64074e6bc7f4c0c20e24803c7b527baf5187ef451af 473 main/binary-arm64/Packages.gz
  f0f5a32ef3516174205112b9b7245d5ac39eb56f7239228e92ba82274405f64e 128 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEluzGpzMN/jl66RuBjoZHoQaEclcFAmo5NnQACgkQjoZHoQaE
-clcF6A/9H6ZDj0cAhalhCnzf3NnFYV0RtAsyrgMii75tOZPtIoN6bVRRYK3X0QV+
-piKMzX7xdb9SvoddiXllOHpE70BK7eu+epKCTzlRerEfkTqzCkm32J0EDNut57Gu
-bFD6/+522TD3ccP0HxUSFUYUFPIw1Qw3me6uM7A33ETjr+OEwW0cHfNWGSPHgPKr
-91dF7cTniOgqe8+IexqLJNqpi4Djfa9ghxMkGqjU/vlTjz4ol8H+XU5QJLTtq6sc
-YIBie1r2Lk1CJQki60Z6KHgJq9ZZIzBrz7kj4cmZWc+ClRoSdsG23XoyJQi4pSeV
-aZN/BUMWZg2U5kLfBqHw7Tm2lFPtwHfrkMiL+zVilo8GZosOoCjO6xx+ZFjiYtLy
-d15RP6DrWqFaxIZarYKv/alUn+wFCUPu1w0IHPFLmA/k8VeBOUfsdzpgPRdq05rK
-Uxrv3GwUabKAhc9HiEE6wCIatRLFwNRTAsOKjeDn3awaat2Y9sWKVfWc6FegwQDS
-bbHsfq1dRtcUhTYdxvCox/EMTsjiWGM9jsnUXt/iKbDtBq74OpR5DOVe63Kg/97s
-SaX+vWJ/jgxsHotpiP8sR3SA7H0CE1hNEAIeF6r5krB5R3Wr4TOKnRmImRUGXlLi
-zICs4hQz2lTE7KBho58yxZIRPa6QaSA6aIe44d2pAtfo6quqRYk=
-=myNO
+iQIzBAEBCgAdFiEEluzGpzMN/jl66RuBjoZHoQaEclcFAmo/+OYACgkQjoZHoQaE
+clcmQRAArrgKgUHCYFC68NkmJLswUEYmO4uPow7ujxaLZlNJq26D4/3ecYozBSSq
+qChHNv9X+XHD1BXwL5yn0vQFKw4xXwN2sVoXOaH1+ORU66NMOFhuHZ/xq1ILrCXP
+x33yYoAips027Jf+RYWJn/wt8s1lU2Nq2f7HKfidHr/g2775OTG615MH80jxdZZL
+tcwAX/iYfsuDYO8JAt+EdcHckf5GVwynoErl+efU7EP8NSbmVusFBTHNvAtLfP7b
+IBlfKYSsENa/dz8eZ17lXncNOzSvC4YBmjadtmelamgL5M2PxZV0gaG+qvyhGogQ
+/J3uL9XPnKY9Yq1ryIRjElndl4VM10uuZbqFHjg8XCZBr/XJQrUyIinT/eUOd6nw
+MYQrlxwf2IcSdprfsIrRGsz7Mxy36V9N4S3lGfDDlHOIgBHluTzk/y9jRubvKPsd
+GOnj2Qzed42lYKxasyTEbXp3rFeRzLsR3c3IFMJcVBfj6NXV/7GQyh3KeONF4EPr
+rh1wuFMQzNEdJ9cjZwo7AdFlE3nsbdKnK+N4HW3+CZlosyH4Uv6/RvEYYArbSVMO
+GcE45+ESqAesbjrIPBOdZau7llXNp/uvokFGZWXlnBswHwXpC691m594CYKRglE1
+lrH+XgxnfybYQ+sOIm+kJ3LW96+A7LtB1UkL8fVucVQpVhmPxM8=
+=FsGJ
 -----END PGP SIGNATURE-----
